@@ -4,6 +4,10 @@ import prismaClient from "../db/Prisma";
 let current_trajeto: number;
 
 export function setupRoutes(app: Express) {
+  app.get('/', (req, res) => {
+    res.send('Servidor on 🕶️');
+  });
+
   app.post("/receba", async (req, res) => {
     const data = req.body as Array<{
       x: number;
