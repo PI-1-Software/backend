@@ -5,6 +5,12 @@ import paho.mqtt.client as paho
 def on_message(mosq, obj, msg):
     print(f"{msg.topic:<20} {msg.qos} {msg.payload}")
     
+    # Enviar para frontend (websocket)
+    
+    
+    # Enviar para o backend (API)
+    
+    
     mosq.publish('pong', 'ack', 0)
 
 def on_publish(mosq, obj, mid):
