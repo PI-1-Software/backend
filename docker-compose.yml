@@ -1,9 +1,12 @@
 services:
-  postgres:
+  db:
     image: postgres
     volumes:
       - ./postgres:/var/lib/postgresql/data
+      - ./migrations/:/docker-entrypoint-initdb.d/
     environment:
-      POSTGRES_PASSWORD: "postgres"
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: carrinho
     ports:
       - "5432:5432"

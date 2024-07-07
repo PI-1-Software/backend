@@ -1,0 +1,4 @@
+aiomqtt==2.2
+asyncpg==0.29
+typing-extensions==4.12
+numpy==2.0
