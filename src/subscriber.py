@@ -34,7 +34,7 @@ async def subscribe(callback):
                     }
                     await callback(data)
         except Exception as e:
-            logging.error("%s", e)
+            logging.error("%s", e, exc_info=True)
 
 
 if __name__ == "__main__":

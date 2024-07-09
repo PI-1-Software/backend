@@ -26,15 +26,16 @@ async def publisher_worker():
                 while True:
                     data = await publish_queue.get()
                     logging.debug("Publishing data: %s", data)
-                    if(data["type"] == "averages_report"):
-                        await client.publish(TOPIC, json.dumps(path_data_to_report_dashboard(data['averages'])))
+                    if("type" in data and data["type"] == "averages_report"):
+                        average = await db.calculate_averages()
+                        await client.publish(TOPIC, json.dumps(path_data_to_report_dashboard(average)))
                     else:
                         await asyncio.gather(
                             client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
                             db.insert(path_data_to_database(data)),
                         )
         except Exception as e:
-            logging.error("%s", e)
+            logging.error("%s", e, exc_info=True)
 
 
 def path_data_to_dashboard(data: PathData):
