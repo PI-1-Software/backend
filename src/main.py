@@ -1,5 +1,6 @@
 import asyncio
 from datetime import datetime
+import logging
 from typing import TypedDict
 
 import numpy as np
@@ -18,6 +19,8 @@ class CarState(TypedDict):
     position: np.ndarray
     velocity: np.ndarray
     acceleration: np.ndarray
+    events_count: int
+    velocity_sum: float
 
 
 state: CarState = {
@@ -27,10 +30,14 @@ state: CarState = {
     "position": np.array([0.0, 0.0]),
     "velocity": np.array([0.0, 0.0]),
     "acceleration": np.array([0.0, 0.0]),
+    "events_count": 0,
+    "velocity_sum": 0,
 }
 
 
 async def subscribe_callback(data: Data):
+    logging.debug("Received data: %s", data)
+
     global state
 
     timestamp = datetime.now()
@@ -40,15 +47,20 @@ async def subscribe_callback(data: Data):
         state["start_timestamp"] = timestamp
         state["position"] = np.array([0.0, 0.0])
         state["velocity"] = np.array([0.0, 0.0])
+        state["events_count"] = 0
+        state["velocity_sum"] = 0
 
     state["velocity"] += state["acceleration"] * delta_time.total_seconds()
     state["position"] += state["velocity"] * delta_time.total_seconds()
+    state["velocity_sum"] += float(np.linalg.norm(state["velocity"]))
+    state["events_count"] += 1
     state["acceleration"] = data["acceleration"]
 
     record: PathData = {
         "id_path": state["id_path"],
-        "position": tuple(state["position"]),
+        "position": (float(state["position"][0]), float(state["position"][1])),
         "duration": (timestamp - state["start_timestamp"]).total_seconds(),
+        "average_velocity": state["velocity_sum"] / state["events_count"],
         "instant_velocity": float(np.linalg.norm(state["velocity"])),
         "instant_acceleration": float(np.linalg.norm(state["acceleration"])),
         "energy_consumption": data["energy"],
@@ -58,6 +70,10 @@ async def subscribe_callback(data: Data):
 
 
 async def main():
+    logging.basicConfig(
+        format="%(levelname)s - %(asctime)s - %(filename)s - %(message)s",
+        level=logging.DEBUG,
+    )
     asyncio.create_task(publisher_worker())
     await subscribe(subscribe_callback)
 

@@ -1,5 +1,6 @@
 import asyncio
 import json
+import logging
 from typing import TypedDict
 
 import aiomqtt
@@ -12,22 +13,27 @@ USERNAME = None
 
 
 class Data(TypedDict):
-    velocity: float
     energy: float
     acceleration: np.ndarray
 
 
 async def subscribe(callback):
-    async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
-        await client.subscribe(TOPIC)
-        async for message in client.messages:
-            raw_data = json.loads(message.payload)  # type: ignore
-            data: Data = {
-                "velocity": raw_data["Velocidade"],
-                "energy": raw_data["Corrente"],
-                "acceleration": np.array([raw_data["X"], raw_data["Y"]]),
-            }
-            await callback(data)
+    while True:
+        try:
+            logging.debug("Connecting to MQTT broker")
+            async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
+                logging.debug("Subscribing to topic")
+                await client.subscribe(TOPIC)
+                logging.info("Waiting for messages")
+                async for message in client.messages:
+                    raw_data = json.loads(message.payload)  # type: ignore
+                    data: Data = {
+                        "energy": raw_data["Corrente"],
+                        "acceleration": np.array([raw_data["X"], raw_data["Y"]]),
+                    }
+                    await callback(data)
+        except Exception as e:
+            logging.error("%s", e)
 
 
 if __name__ == "__main__":

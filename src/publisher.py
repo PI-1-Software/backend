@@ -1,5 +1,6 @@
 import asyncio
 import json
+import logging
 
 import aiomqtt
 
@@ -16,17 +17,24 @@ publish_queue: asyncio.Queue[PathData] = asyncio.Queue()
 
 
 async def publisher_worker():
-    async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
-        while True:
-            data = await publish_queue.get()
-            await asyncio.gather(
-                client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
-                db.insert(path_data_to_database(data)),
-            )
+    while True:
+        try:
+            logging.debug("Connecting to MQTT broker")
+            async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
+                logging.info("Waiting for events")
+                while True:
+                    data = await publish_queue.get()
+                    await asyncio.gather(
+                        client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
+                        db.insert(path_data_to_database(data)),
+                    )
+        except Exception as e:
+            logging.error("%s", e)
 
 
 def path_data_to_dashboard(data: PathData):
     return {
+        "velocidade_media": data["average_velocity"],
         "velocidade_inst": data["instant_velocity"],
         "aceleracao_inst": data["instant_acceleration"],
         "tempo_percurso": data["duration"],
