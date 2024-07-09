@@ -1,12 +1,13 @@
 from datetime import datetime
+from os import getenv
 from typing import TypedDict
 
 import asyncpg
 
-HOST = "localhost"
-USER = "postgres"
-PASSWORD = "postgres"
-DATABASE = "carrinho"
+HOST = getenv("DB_HOST", "localhost")
+USER = getenv("DB_USER", "postgres")
+PASSWORD = getenv("DB_PSWD", "postgres")
+DATABASE = getenv("DB_NAME", "carrinho")
 
 
 __pool: asyncpg.Pool = None  # type: ignore

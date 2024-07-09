@@ -1,15 +1,16 @@
 import asyncio
 import json
 import logging
+from os import getenv
 from typing import TypedDict
 
 import aiomqtt
 import numpy as np
 
-BROKER = "test.mosquitto.org"
-PORT = 1883
-TOPIC = "ESP_TEST_PI1_LP/data"
-USERNAME = None
+BROKER = getenv("SUB_BROKER", "test.mosquitto.org")
+PORT = int(getenv("SUB_PORT", 1883))
+TOPIC = getenv("SUB_TOPIC", "ESP_TEST_PI1_LP/data")
+USERNAME = getenv("SUB_USERNAME", None)
 
 
 class Data(TypedDict):

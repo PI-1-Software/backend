@@ -10,3 +10,9 @@ services:
       POSTGRES_DB: carrinho
     ports:
       - "5432:5432"
+  backend:
+    build: .
+    environment:
+      DB_HOST: db
+    depends_on:
+      - db

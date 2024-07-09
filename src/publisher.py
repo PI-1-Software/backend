@@ -1,16 +1,17 @@
 import asyncio
 import json
 import logging
+from os import getenv
 
 import aiomqtt
 
 import database as db
 from path_data import PathData
 
-BROKER = "mqtt.thingsboard.cloud"
-PORT = 1883
-TOPIC = "v1/devices/me/telemetry"
-USERNAME = "1w8wpoofr2600lb6i41b"
+BROKER = getenv("PUB_BROKER", "mqtt.thingsboard.cloud")
+PORT = int(getenv("PUB_PORT", 1883))
+TOPIC = getenv("PUB_TOPIC", "v1/devices/me/telemetry")
+USERNAME = getenv("PUB_USERNAME", "1w8wpoofr2600lb6i41b")
 
 
 publish_queue: asyncio.Queue[PathData] = asyncio.Queue()
@@ -24,6 +25,7 @@ async def publisher_worker():
                 logging.info("Waiting for events")
                 while True:
                     data = await publish_queue.get()
+                    logging.debug("Publishing data: %s", data)
                     await asyncio.gather(
                         client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
                         db.insert(path_data_to_database(data)),
