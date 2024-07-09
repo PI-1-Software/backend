@@ -9,7 +9,7 @@ import numpy as np
 
 BROKER = getenv("SUB_BROKER", "test.mosquitto.org")
 PORT = int(getenv("SUB_PORT", 1883))
-TOPIC = getenv("SUB_TOPIC", "ESP_TEST_PI1_LP/data")
+TOPIC = getenv("SUB_TOPIC", "/ESP_TEST_PI1_LP/data")
 USERNAME = getenv("SUB_USERNAME", None)
 
 

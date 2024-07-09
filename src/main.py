@@ -5,6 +5,7 @@ from typing import TypedDict
 
 import numpy as np
 
+import database as db
 from path_data import PathData
 from publisher import publish_queue, publisher_worker
 from subscriber import Data, subscribe
@@ -43,13 +44,14 @@ async def subscribe_callback(data: Data):
     timestamp = datetime.now()
     delta_time = timestamp - state["last_event_timestamp"]
     if delta_time.total_seconds() > MAX_SECONDS_BETWEEN_EVENTS:
-        state["id_path"] += 1
+        state["id_path"] = await db.get_next_path_id()
         state["start_timestamp"] = timestamp
         state["position"] = np.array([0.0, 0.0])
         state["velocity"] = np.array([0.0, 0.0])
         state["events_count"] = 0
         state["velocity_sum"] = 0
 
+    state["last_event_timestamp"] = timestamp
     state["velocity"] += state["acceleration"] * delta_time.total_seconds()
     state["position"] += state["velocity"] * delta_time.total_seconds()
     state["velocity_sum"] += float(np.linalg.norm(state["velocity"]))

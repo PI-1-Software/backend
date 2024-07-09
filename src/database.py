@@ -41,6 +41,11 @@ async def insert(record: Record):
         await connection.execute(sql, *values)
 
 
+async def get_next_path_id() -> int:
+    async with (await get_pool()).acquire() as connection:
+        return await connection.fetchval("SELECT MAX(id_path) + 1 FROM records") or 0
+
+
 if __name__ == "__main__":
     import asyncio
     from datetime import datetime
