@@ -26,10 +26,13 @@ async def publisher_worker():
                 while True:
                     data = await publish_queue.get()
                     logging.debug("Publishing data: %s", data)
-                    await asyncio.gather(
-                        client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
-                        db.insert(path_data_to_database(data)),
-                    )
+                    if(data["type"] == "averages_report"):
+                        await client.publish(TOPIC, json.dumps(path_data_to_report_dashboard(data['averages'])))
+                    else:
+                        await asyncio.gather(
+                            client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
+                            db.insert(path_data_to_database(data)),
+                        )
         except Exception as e:
             logging.error("%s", e)
 
@@ -45,6 +48,12 @@ def path_data_to_dashboard(data: PathData):
         "YPos": data["position"][1],
     }
 
+def path_data_to_report_dashboard(data: PathData):
+    return {
+        "velocidade_media_trajeto": data["average_velocity"],
+        "velocidade_inst_trajeto": data["average_acceleration"],
+        "consumo_energetico_trajeto": data["average_energy_consumption"],
+    }
 
 def path_data_to_database(data: PathData) -> db.Record:
     return {

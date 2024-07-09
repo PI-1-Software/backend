@@ -39,6 +39,23 @@ state: CarState = {
 async def subscribe_callback(data: Data):
     logging.debug("Received data: %s", data)
 
+    if data["type"] == "averages_report":
+        try:
+            averages = await db.calculate_averages()
+            logging.debug("Averages calculated: %s", averages)
+
+            report_message = {
+                "type": "averages_report",
+                "averages": averages,
+                "timestamp": datetime.now().isoformat(),
+            }
+
+            await publish_queue.put(report_message)
+        except Exception as e:
+            logging.error("Failed to calculate averages: %s", e)
+            
+        return
+
     global state
 
     timestamp = datetime.now()
