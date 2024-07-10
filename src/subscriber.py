@@ -14,6 +14,7 @@ USERNAME = getenv("SUB_USERNAME", None)
 
 
 class Data(TypedDict):
+    type: str
     energy: float
     acceleration: np.ndarray
 
@@ -28,9 +29,13 @@ async def subscribe(callback):
                 logging.info("Waiting for messages")
                 async for message in client.messages:
                     raw_data = json.loads(message.payload)  # type: ignore
+                    logging.debug("Raw data: %s", raw_data)
                     data: Data = {
-                        "energy": raw_data["Corrente"],
-                        "acceleration": np.array([raw_data["X"], raw_data["Y"]]),
+                        "type": raw_data["Tipo"],
+                        "energy": raw_data.get("Corrente"),
+                        "acceleration": np.array([raw_data["X"], raw_data["Y"]])
+                        if raw_data.get("X")
+                        else np.array([0.0, 0.0]),
                     }
                     await callback(data)
         except Exception as e:

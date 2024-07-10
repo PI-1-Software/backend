@@ -44,7 +44,8 @@ async def insert(record: Record):
 async def get_next_path_id() -> int:
     async with (await get_pool()).acquire() as connection:
         return await connection.fetchval("SELECT MAX(id_path) + 1 FROM records") or 0
-    
+
+
 async def calculate_averages():
     async with (await get_pool()).acquire() as connection:
         query = """
@@ -65,6 +66,7 @@ async def calculate_averages():
         else:
             raise Exception("No records found to calculate averages")
 
+
 if __name__ == "__main__":
     import asyncio
     from datetime import datetime
@@ -79,7 +81,7 @@ if __name__ == "__main__":
             "timestamp": datetime.now(),
         }
         await insert(record)
-        
+
         averages = await calculate_averages()
         print("Averages calculated:", averages)
 
