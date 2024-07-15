@@ -1,0 +1,2972 @@
+[
+  {
+    "type": "inicio",
+    "orientation": "Parado",
+    "energy": null,
+    "velocity": null,
+    "acceleration": [
+      0.0,
+      0.0
+    ],
+    "time": "2024-07-10 19:29:58,527"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      0.00359253,
+      -0.00898132
+    ],
+    "time": "2024-07-10 19:29:58,927"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      -0.29758117,
+      0.02993774
+    ],
+    "time": "2024-07-10 19:29:58,929"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      1.72381532,
+      -0.0425116
+    ],
+    "time": "2024-07-10 19:29:58,930"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      -0.29578492,
+      -0.17124389
+    ],
+    "time": "2024-07-10 19:29:58,930"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -1.53341126,
+      0.23890319
+    ],
+    "time": "2024-07-10 19:29:58,931"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      0.2694397,
+      0.08981323
+    ],
+    "time": "2024-07-10 19:29:58,931"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      2.07468557,
+      0.12154724
+    ],
+    "time": "2024-07-10 19:29:58,932"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      0.29638368,
+      -0.01257385
+    ],
+    "time": "2024-07-10 19:29:58,933"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2551.351318359375,
+    "velocity": 0,
+    "acceleration": [
+      -0.64545774,
+      -0.05867798
+    ],
+    "time": "2024-07-10 19:29:59,140"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      0.55803955,
+      0.06286927
+    ],
+    "time": "2024-07-10 19:29:59,175"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -1.98726749,
+      0.02215393
+    ],
+    "time": "2024-07-10 19:29:59,176"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      -1.46455443,
+      -0.29578492
+    ],
+    "time": "2024-07-10 19:29:59,176"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      3.37278628,
+      -0.1035846
+    ],
+    "time": "2024-07-10 19:30:00,066"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -0.98614931,
+      0.02874023
+    ],
+    "time": "2024-07-10 19:30:00,068"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.88735473,
+      0.06945556
+    ],
+    "time": "2024-07-10 19:30:00,068"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      -1.90224421,
+      -0.0185614
+    ],
+    "time": "2024-07-10 19:30:00,069"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -1.02686465,
+      0.12154724
+    ],
+    "time": "2024-07-10 19:30:00,070"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      0.7694,
+      -0.061073
+    ],
+    "time": "2024-07-10 19:30:00,070"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      3.12729669,
+      -0.08442444
+    ],
+    "time": "2024-07-10 19:30:00,071"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2248.648681640625,
+    "velocity": 0,
+    "acceleration": [
+      0.71970338,
+      -0.05748047
+    ],
+    "time": "2024-07-10 19:30:00,071"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2378.37841796875,
+    "velocity": 0,
+    "acceleration": [
+      -5.37981272,
+      0.21315674
+    ],
+    "time": "2024-07-10 19:30:00,401"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      0.55803955,
+      0.06286927
+    ],
+    "time": "2024-07-10 19:30:00,402"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      -0.1035846,
+      0.09220825
+    ],
+    "time": "2024-07-10 19:30:00,403"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -2.85785699,
+      0.68437684
+    ],
+    "time": "2024-07-10 19:30:00,403"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -2.43034601,
+      0.44008484
+    ],
+    "time": "2024-07-10 19:30:00,404"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      0.33530274,
+      0.18202148
+    ],
+    "time": "2024-07-10 19:30:00,778"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.47960266,
+      0.10897339
+    ],
+    "time": "2024-07-10 19:30:00,779"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      -0.85801578,
+      0.24429199
+    ],
+    "time": "2024-07-10 19:30:00,780"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      0.09699829,
+      0.15028748
+    ],
+    "time": "2024-07-10 19:30:00,781"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.31793883,
+      -0.12633727
+    ],
+    "time": "2024-07-10 19:30:03,310"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      -1.80644345,
+      0.27303222
+    ],
+    "time": "2024-07-10 19:30:03,311"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -2.54590583,
+      0.10777588
+    ],
+    "time": "2024-07-10 19:30:03,312"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      -0.64665526,
+      0.13651611
+    ],
+    "time": "2024-07-10 19:30:03,313"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      1.54718256,
+      0.08921447
+    ],
+    "time": "2024-07-10 19:30:03,314"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2464.86474609375,
+    "velocity": 0,
+    "acceleration": [
+      -1.52502871,
+      -0.07304809
+    ],
+    "time": "2024-07-10 19:30:03,314"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      0.06346802,
+      -0.07304809
+    ],
+    "time": "2024-07-10 19:30:03,315"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -1.25079894,
+      -0.02215393
+    ],
+    "time": "2024-07-10 19:30:03,315"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -2.27826238,
+      0.19339782
+    ],
+    "time": "2024-07-10 19:30:03,316"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      2.54410958,
+      -0.37781432
+    ],
+    "time": "2024-07-10 19:30:03,318"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      0.64845157,
+      -0.33350646
+    ],
+    "time": "2024-07-10 19:30:03,319"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      1.37533998,
+      0.02933899
+    ],
+    "time": "2024-07-10 19:30:03,319"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      -2.30221248,
+      0.55324954
+    ],
+    "time": "2024-07-10 19:30:03,320"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      2.80935788,
+      -0.13471985
+    ],
+    "time": "2024-07-10 19:30:03,320"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -0.22752686,
+      -0.02155518
+    ],
+    "time": "2024-07-10 19:30:03,835"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      0.04550537,
+      -0.03592529
+    ],
+    "time": "2024-07-10 19:30:03,838"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.31793883,
+      -0.12633727
+    ],
+    "time": "2024-07-10 19:30:03,846"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      2.30879879,
+      -0.45086244
+    ],
+    "time": "2024-07-10 19:30:04,439"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      -1.80644345,
+      0.27303222
+    ],
+    "time": "2024-07-10 19:30:04,440"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2767.567626953125,
+    "velocity": 0,
+    "acceleration": [
+      0.13591737,
+      -0.02395019
+    ],
+    "time": "2024-07-10 19:30:04,441"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      -3.23627019,
+      0.09101074
+    ],
+    "time": "2024-07-10 19:30:04,442"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      2.97641063,
+      -0.50954038
+    ],
+    "time": "2024-07-10 19:30:04,442"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.20537293,
+      -0.09879456
+    ],
+    "time": "2024-07-10 19:30:04,443"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.9969269,
+      0.49996033
+    ],
+    "time": "2024-07-10 19:30:05,285"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      2.57284975,
+      -0.19699036
+    ],
+    "time": "2024-07-10 19:30:05,286"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.96579164,
+      -0.06646179
+    ],
+    "time": "2024-07-10 19:30:05,287"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      0.44726989,
+      0.14908996
+    ],
+    "time": "2024-07-10 19:30:05,295"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.22333556,
+      0.24249573
+    ],
+    "time": "2024-07-10 19:30:05,296"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      0.21315674,
+      -0.34967285
+    ],
+    "time": "2024-07-10 19:30:05,296"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -3.25363398,
+      0.30356872
+    ],
+    "time": "2024-07-10 19:30:05,297"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      0.01496887,
+      0.47002259
+    ],
+    "time": "2024-07-10 19:30:05,298"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      0.00778381,
+      0.5664221
+    ],
+    "time": "2024-07-10 19:30:06,308"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2767.567626953125,
+    "velocity": 0,
+    "acceleration": [
+      0.13591737,
+      -0.02395019
+    ],
+    "time": "2024-07-10 19:30:06,310"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      1.78548706,
+      -0.11915222
+    ],
+    "time": "2024-07-10 19:30:06,311"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      -4.26133871,
+      0.03652405
+    ],
+    "time": "2024-07-10 19:30:06,312"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      2.73870492,
+      0.69575316
+    ],
+    "time": "2024-07-10 19:30:06,312"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -3.95597363,
+      0.76341248
+    ],
+    "time": "2024-07-10 19:30:06,313"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      3.65719485,
+      -0.02754273
+    ],
+    "time": "2024-07-10 19:30:06,313"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      1.77470946,
+      -0.29219237
+    ],
+    "time": "2024-07-10 19:30:06,314"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1643.2432861328125,
+    "velocity": 0,
+    "acceleration": [
+      1.87649775,
+      0.00479004
+    ],
+    "time": "2024-07-10 19:30:06,809"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      2.06271052,
+      0.2335144
+    ],
+    "time": "2024-07-10 19:30:06,810"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.00359253,
+      -0.19160156
+    ],
+    "time": "2024-07-10 19:30:06,811"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      1.10051143,
+      0.13591737
+    ],
+    "time": "2024-07-10 19:30:06,812"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      2.48303652,
+      -0.01556763
+    ],
+    "time": "2024-07-10 19:30:06,813"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.28141481,
+      0.17543519
+    ],
+    "time": "2024-07-10 19:30:06,813"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      -2.13695621,
+      0.17723145
+    ],
+    "time": "2024-07-10 19:30:06,814"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      -0.59037232,
+      0.20657043
+    ],
+    "time": "2024-07-10 19:30:06,814"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      1.78548706,
+      -0.11915222
+    ],
+    "time": "2024-07-10 19:30:07,227"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.06346802,
+      -0.39877075
+    ],
+    "time": "2024-07-10 19:30:07,228"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -2.49561024,
+      0.29338989
+    ],
+    "time": "2024-07-10 19:30:07,228"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      1.16757202,
+      -0.18621276
+    ],
+    "time": "2024-07-10 19:30:07,229"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      1.4765296,
+      -0.34069154
+    ],
+    "time": "2024-07-10 19:30:07,229"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      0.554447,
+      -0.17064515
+    ],
+    "time": "2024-07-10 19:30:07,741"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      0.28081605,
+      0.20776795
+    ],
+    "time": "2024-07-10 19:30:07,747"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -0.68078429,
+      0.32153139
+    ],
+    "time": "2024-07-10 19:30:07,751"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -2.40040827,
+      0.34188902
+    ],
+    "time": "2024-07-10 19:30:07,752"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -3.65000987,
+      0.29877868
+    ],
+    "time": "2024-07-10 19:30:07,753"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.58618104,
+      0.12394226
+    ],
+    "time": "2024-07-10 19:30:07,754"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      -0.10298584,
+      -0.13052857
+    ],
+    "time": "2024-07-10 19:30:08,457"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      -2.42914867,
+      0.13531861
+    ],
+    "time": "2024-07-10 19:30:08,458"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      -2.83390689,
+      0.67120421
+    ],
+    "time": "2024-07-10 19:30:08,459"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      0.86460203,
+      0.02993774
+    ],
+    "time": "2024-07-10 19:30:08,459"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -3.76556945,
+      0.18262024
+    ],
+    "time": "2024-07-10 19:30:08,460"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.9286688,
+      0.02095642
+    ],
+    "time": "2024-07-10 19:30:08,460"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      -0.85083067,
+      0.03532654
+    ],
+    "time": "2024-07-10 19:30:08,799"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      3.03508854,
+      0.36404297
+    ],
+    "time": "2024-07-10 19:30:08,800"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      1.40348148,
+      -0.03412903
+    ],
+    "time": "2024-07-10 19:30:08,801"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -2.08007455,
+      -0.06646179
+    ],
+    "time": "2024-07-10 19:30:08,802"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      3.46858692,
+      -0.07304809
+    ],
+    "time": "2024-07-10 19:30:09,384"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.90052736,
+      -0.21674927
+    ],
+    "time": "2024-07-10 19:30:09,386"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2118.9189453125,
+    "velocity": 0,
+    "acceleration": [
+      0.37242553,
+      0.04131409
+    ],
+    "time": "2024-07-10 19:30:09,387"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      1.53939879,
+      -0.26345214
+    ],
+    "time": "2024-07-10 19:30:09,388"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      -5.99054241,
+      0.58198977
+    ],
+    "time": "2024-07-10 19:30:09,388"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      0.76880127,
+      0.01317261
+    ],
+    "time": "2024-07-10 19:30:09,389"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      -2.9350965,
+      0.12693603
+    ],
+    "time": "2024-07-10 19:30:10,031"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      -6.33362913,
+      0.38320312
+    ],
+    "time": "2024-07-10 19:30:10,035"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      -0.67838931,
+      -0.15148498
+    ],
+    "time": "2024-07-10 19:30:10,036"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      0.32272887,
+      0.16765137
+    ],
+    "time": "2024-07-10 19:30:10,037"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      2.00702643,
+      0.06286927
+    ],
+    "time": "2024-07-10 19:30:10,037"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -2.4381299,
+      0.29698241
+    ],
+    "time": "2024-07-10 19:30:10,038"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.90052736,
+      -0.21674927
+    ],
+    "time": "2024-07-10 19:30:10,718"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      0.49636781,
+      -0.22752686
+    ],
+    "time": "2024-07-10 19:30:10,719"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -1.3328284,
+      0.08981323
+    ],
+    "time": "2024-07-10 19:30:10,720"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      1.26097775,
+      0.07843689
+    ],
+    "time": "2024-07-10 19:30:10,720"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      2.31418753,
+      -0.07065307
+    ],
+    "time": "2024-07-10 19:30:10,721"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2378.37841796875,
+    "velocity": 0,
+    "acceleration": [
+      -4.39486074,
+      0.43768981
+    ],
+    "time": "2024-07-10 19:30:10,721"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      -3.96615243,
+      0.22393432
+    ],
+    "time": "2024-07-10 19:30:10,722"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1643.2432861328125,
+    "velocity": 0,
+    "acceleration": [
+      -1.39270389,
+      -0.07903565
+    ],
+    "time": "2024-07-10 19:30:10,722"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1643.2432861328125,
+    "velocity": 0,
+    "acceleration": [
+      -5.28401184,
+      0.3820056
+    ],
+    "time": "2024-07-10 19:30:11,027"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.60893369,
+      -0.37661684
+    ],
+    "time": "2024-07-10 19:30:11,028"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.35985169,
+      0.17064515
+    ],
+    "time": "2024-07-10 19:30:11,028"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      0.08861572,
+      0.32033387
+    ],
+    "time": "2024-07-10 19:30:11,029"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      0.49636781,
+      -0.22752686
+    ],
+    "time": "2024-07-10 19:30:11,596"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -2.18605399,
+      0.02215393
+    ],
+    "time": "2024-07-10 19:30:11,601"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      1.57891667,
+      0.03891907
+    ],
+    "time": "2024-07-10 19:30:11,602"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -3.7212615,
+      0.06047424
+    ],
+    "time": "2024-07-10 19:30:11,602"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -1.07955503,
+      -0.13352233
+    ],
+    "time": "2024-07-10 19:30:11,603"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      0.92268127,
+      -0.05508545
+    ],
+    "time": "2024-07-10 19:30:11,603"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      -2.05732179,
+      0.18381774
+    ],
+    "time": "2024-07-10 19:30:11,604"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2378.37841796875,
+    "velocity": 0,
+    "acceleration": [
+      1.75195682,
+      -0.11496094
+    ],
+    "time": "2024-07-10 19:30:12,018"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -5.59057426,
+      0.22752686
+    ],
+    "time": "2024-07-10 19:30:12,022"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -1.88068914,
+      0.18681152
+    ],
+    "time": "2024-07-10 19:30:12,023"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      2.51956058,
+      0.20237915
+    ],
+    "time": "2024-07-10 19:30:12,023"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      2.1159997,
+      0.35805541
+    ],
+    "time": "2024-07-10 19:30:12,628"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      -1.66633487,
+      0.05029541
+    ],
+    "time": "2024-07-10 19:30:12,644"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -2.4525001,
+      0.32572266
+    ],
+    "time": "2024-07-10 19:30:12,645"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -1.63819337,
+      0.15447876
+    ],
+    "time": "2024-07-10 19:30:12,646"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      1.1615845,
+      -0.13112731
+    ],
+    "time": "2024-07-10 19:30:12,647"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      -3.66198492,
+      -0.16825013
+    ],
+    "time": "2024-07-10 19:30:12,647"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      2.37047052,
+      0.16286133
+    ],
+    "time": "2024-07-10 19:30:13,285"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      3.52187634,
+      -0.05328919
+    ],
+    "time": "2024-07-10 19:30:13,286"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      0.41673338,
+      -0.02754273
+    ],
+    "time": "2024-07-10 19:30:13,287"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      -3.45541453,
+      0.2323169
+    ],
+    "time": "2024-07-10 19:30:13,288"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      0.56043458,
+      -0.02095642
+    ],
+    "time": "2024-07-10 19:30:13,586"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.86280578,
+      0.20417541
+    ],
+    "time": "2024-07-10 19:30:13,589"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -0.25806335,
+      -0.07185058
+    ],
+    "time": "2024-07-10 19:30:13,589"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -2.49680781,
+      -0.05089416
+    ],
+    "time": "2024-07-10 19:30:13,590"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      -1.66274226,
+      -0.27782226
+    ],
+    "time": "2024-07-10 19:30:14,402"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.33350646,
+      0.17004639
+    ],
+    "time": "2024-07-10 19:30:14,403"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -2.67344046,
+      0.21555176
+    ],
+    "time": "2024-07-10 19:30:14,404"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2378.37841796875,
+    "velocity": 0,
+    "acceleration": [
+      -0.23052064,
+      -0.79933774
+    ],
+    "time": "2024-07-10 19:30:14,404"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -2.48842525,
+      0.29578492
+    ],
+    "time": "2024-07-10 19:30:14,812"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -2.04714298,
+      0.28800109
+    ],
+    "time": "2024-07-10 19:30:14,813"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      1.19152224,
+      -0.09699829
+    ],
+    "time": "2024-07-10 19:30:14,814"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      2.9309051,
+      -0.00299377
+    ],
+    "time": "2024-07-10 19:30:14,815"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -1.1262579,
+      -0.01796265
+    ],
+    "time": "2024-07-10 19:30:14,815"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      2.67344046,
+      -0.24608825
+    ],
+    "time": "2024-07-10 19:30:14,816"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -0.16884887,
+      -0.26764342
+    ],
+    "time": "2024-07-10 19:30:14,816"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.86699706,
+      -0.10418335
+    ],
+    "time": "2024-07-10 19:30:14,818"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      -1.7771045,
+      0.14010864
+    ],
+    "time": "2024-07-10 19:30:15,101"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.33350646,
+      0.17004639
+    ],
+    "time": "2024-07-10 19:30:15,102"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      -0.57540345,
+      0.2945874
+    ],
+    "time": "2024-07-10 19:30:15,103"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      -1.3992902,
+      -0.10597961
+    ],
+    "time": "2024-07-10 19:30:15,104"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      1.95194089,
+      0.02454895
+    ],
+    "time": "2024-07-10 19:30:15,104"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -0.28321105,
+      -0.10777588
+    ],
+    "time": "2024-07-10 19:30:15,105"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -1.3465997,
+      0.2323169
+    ],
+    "time": "2024-07-10 19:30:15,523"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.54786074,
+      -0.41673338
+    ],
+    "time": "2024-07-10 19:30:15,524"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -1.30887818,
+      -0.05029541
+    ],
+    "time": "2024-07-10 19:30:15,524"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -2.83270931,
+      0.08921447
+    ],
+    "time": "2024-07-10 19:30:15,525"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -3.07340884,
+      0.28021729
+    ],
+    "time": "2024-07-10 19:30:16,163"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      0.36045045,
+      0.26644593
+    ],
+    "time": "2024-07-10 19:30:16,166"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      0.70233947,
+      -0.08921447
+    ],
+    "time": "2024-07-10 19:30:16,167"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      2.10522223,
+      -0.42152345
+    ],
+    "time": "2024-07-10 19:30:16,168"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      -0.18681152,
+      -0.05089416
+    ],
+    "time": "2024-07-10 19:30:16,168"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      4.32660294,
+      -0.7747888
+    ],
+    "time": "2024-07-10 19:30:16,169"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      -2.97042298,
+      0.50235534
+    ],
+    "time": "2024-07-10 19:30:16,687"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1902.7027587890625,
+    "velocity": 0,
+    "acceleration": [
+      0.86699706,
+      -0.10418335
+    ],
+    "time": "2024-07-10 19:30:16,688"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1686.4864501953125,
+    "velocity": 0,
+    "acceleration": [
+      4.2367897,
+      -0.09460327
+    ],
+    "time": "2024-07-10 19:30:16,688"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      0.08502319,
+      -0.21734802
+    ],
+    "time": "2024-07-10 19:30:16,689"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      1.59448421,
+      0.01257385
+    ],
+    "time": "2024-07-10 19:30:16,689"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      0.90950865,
+      0.02275269
+    ],
+    "time": "2024-07-10 19:30:16,963"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -0.02993774,
+      0.05508545
+    ],
+    "time": "2024-07-10 19:30:16,967"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.07544312,
+      -0.00598755
+    ],
+    "time": "2024-07-10 19:30:16,968"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      -2.7357111,
+      0.2999762
+    ],
+    "time": "2024-07-10 19:30:16,970"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      3.37578011,
+      -0.04011658
+    ],
+    "time": "2024-07-10 19:30:17,467"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      0.81670165,
+      -0.25506958
+    ],
+    "time": "2024-07-10 19:30:17,468"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.80772036,
+      -0.00479004
+    ],
+    "time": "2024-07-10 19:30:17,469"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -1.21487367,
+      0.0796344
+    ],
+    "time": "2024-07-10 19:30:17,470"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      4.35474443,
+      -0.18561402
+    ],
+    "time": "2024-07-10 19:30:18,144"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -0.16106506,
+      -0.40056702
+    ],
+    "time": "2024-07-10 19:30:18,145"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      2.91354132,
+      -0.19399658
+    ],
+    "time": "2024-07-10 19:30:18,146"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      3.53744388,
+      -0.10059082
+    ],
+    "time": "2024-07-10 19:30:18,147"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.79335022,
+      0.19220032
+    ],
+    "time": "2024-07-10 19:30:18,147"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      1.54838014,
+      -0.04790039
+    ],
+    "time": "2024-07-10 19:30:18,148"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      -2.69200206,
+      -0.11376343
+    ],
+    "time": "2024-07-10 19:30:18,832"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2551.351318359375,
+    "velocity": 0,
+    "acceleration": [
+      -0.67659301,
+      0.30835876
+    ],
+    "time": "2024-07-10 19:30:18,833"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2248.648681640625,
+    "velocity": 0,
+    "acceleration": [
+      -4.28349257,
+      0.23411316
+    ],
+    "time": "2024-07-10 19:30:18,834"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1643.2432861328125,
+    "velocity": 0,
+    "acceleration": [
+      2.83570313,
+      -0.05508545
+    ],
+    "time": "2024-07-10 19:30:18,834"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      -3.47038341,
+      0.25267455
+    ],
+    "time": "2024-07-10 19:30:18,835"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -4.65591812,
+      0.09101074
+    ],
+    "time": "2024-07-10 19:30:18,835"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      1.89745426,
+      -0.29578492
+    ],
+    "time": "2024-07-10 19:30:18,835"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      -0.27602601,
+      0.02095642
+    ],
+    "time": "2024-07-10 19:30:18,836"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -0.16106506,
+      -0.40056702
+    ],
+    "time": "2024-07-10 19:30:19,501"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -1.67890871,
+      -0.15867004
+    ],
+    "time": "2024-07-10 19:30:19,502"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -3.05185366,
+      0.15627502
+    ],
+    "time": "2024-07-10 19:30:19,503"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      0.90890992,
+      -0.07185058
+    ],
+    "time": "2024-07-10 19:30:19,503"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      2.66625547,
+      -0.12992981
+    ],
+    "time": "2024-07-10 19:30:19,504"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2421.62158203125,
+    "velocity": 0,
+    "acceleration": [
+      -0.61492127,
+      0.27003846
+    ],
+    "time": "2024-07-10 19:30:19,505"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2378.37841796875,
+    "velocity": 0,
+    "acceleration": [
+      -0.04550537,
+      -0.16166382
+    ],
+    "time": "2024-07-10 19:30:19,505"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      3.21950507,
+      -0.08861572
+    ],
+    "time": "2024-07-10 19:30:19,506"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      -3.55361032,
+      -0.01676514
+    ],
+    "time": "2024-07-10 19:30:19,794"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      0.68317932,
+      0.01736389
+    ],
+    "time": "2024-07-10 19:30:19,795"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1643.2432861328125,
+    "velocity": 0,
+    "acceleration": [
+      2.68182302,
+      -0.04191284
+    ],
+    "time": "2024-07-10 19:30:19,795"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -0.96339661,
+      0.17184265
+    ],
+    "time": "2024-07-10 19:30:19,796"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1816.2161865234375,
+    "velocity": 0,
+    "acceleration": [
+      -1.67890871,
+      -0.15867004
+    ],
+    "time": "2024-07-10 19:30:20,338"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      1.45796812,
+      0.06286927
+    ],
+    "time": "2024-07-10 19:30:20,340"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -0.75263488,
+      0.2999762
+    ],
+    "time": "2024-07-10 19:30:20,341"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2075.67578125,
+    "velocity": 0,
+    "acceleration": [
+      -3.49014211,
+      0.6646179
+    ],
+    "time": "2024-07-10 19:30:20,341"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      1.08913517,
+      -0.0862207
+    ],
+    "time": "2024-07-10 19:30:20,342"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2248.648681640625,
+    "velocity": 0,
+    "acceleration": [
+      -0.22393432,
+      0.02933899
+    ],
+    "time": "2024-07-10 19:30:20,957"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2162.162109375,
+    "velocity": 0,
+    "acceleration": [
+      -2.59260869,
+      0.21136047
+    ],
+    "time": "2024-07-10 19:30:20,960"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      -1.25199652,
+      -0.09340576
+    ],
+    "time": "2024-07-10 19:30:20,960"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      -4.45832872,
+      0.52031797
+    ],
+    "time": "2024-07-10 19:30:20,961"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      4.67268324,
+      -0.60593992
+    ],
+    "time": "2024-07-10 19:30:21,305"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      -1.41545653,
+      0.14429992
+    ],
+    "time": "2024-07-10 19:30:21,314"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      1.01608706,
+      0.1844165
+    ],
+    "time": "2024-07-10 19:30:21,315"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -4.13979149,
+      0.11615845
+    ],
+    "time": "2024-07-10 19:30:21,315"
+  },
+  {
+    "type": "dados",
+    "orientation": "Esquerda",
+    "energy": 1772.9730224609375,
+    "velocity": 0,
+    "acceleration": [
+      -0.86999083,
+      0.47720763
+    ],
+    "time": "2024-07-10 19:30:21,316"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 1945.9459228515625,
+    "velocity": 0,
+    "acceleration": [
+      4.24996233,
+      -0.42990601
+    ],
+    "time": "2024-07-10 19:30:21,316"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      1.08913517,
+      -0.0862207
+    ],
+    "time": "2024-07-10 19:30:21,878"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.90591615,
+      0.14609618
+    ],
+    "time": "2024-07-10 19:30:21,881"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1859.45947265625,
+    "velocity": 0,
+    "acceleration": [
+      3.74341559,
+      -0.20178039
+    ],
+    "time": "2024-07-10 19:30:21,883"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      0.80532533,
+      -0.27422974
+    ],
+    "time": "2024-07-10 19:30:21,884"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1989.189208984375,
+    "velocity": 0,
+    "acceleration": [
+      2.06750059,
+      -0.12513977
+    ],
+    "time": "2024-07-10 19:30:21,885"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2291.891845703125,
+    "velocity": 0,
+    "acceleration": [
+      -2.1585114,
+      0.2203418
+    ],
+    "time": "2024-07-10 19:30:21,886"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2335.13525390625,
+    "velocity": 0,
+    "acceleration": [
+      1.11188781,
+      -0.07723938
+    ],
+    "time": "2024-07-10 19:30:21,887"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 2205.405517578125,
+    "velocity": 0,
+    "acceleration": [
+      -2.83749938,
+      -0.03592529
+    ],
+    "time": "2024-07-10 19:30:22,485"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1729.729736328125,
+    "velocity": 0,
+    "acceleration": [
+      -2.47585154,
+      0.05029541
+    ],
+    "time": "2024-07-10 19:30:22,487"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.37601808,
+      -0.21375549
+    ],
+    "time": "2024-07-10 19:30:22,487"
+  },
+  {
+    "type": "dados",
+    "orientation": "Reto",
+    "energy": 1600,
+    "velocity": 0,
+    "acceleration": [
+      -1.03584599,
+      0.0544867
+    ],
+    "time": "2024-07-10 19:30:22,488"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1383.7838134765625,
+    "velocity": 0,
+    "acceleration": [
+      0.78796142,
+      -0.02335144
+    ],
+    "time": "2024-07-10 19:30:22,488"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      0.00538879,
+      0.07005432
+    ],
+    "time": "2024-07-10 19:30:22,489"
+  },
+  {
+    "type": "dados",
+    "orientation": "Direita",
+    "energy": 2032.432373046875,
+    "velocity": 0,
+    "acceleration": [
+      -0.90591615,
+      0.14609618
+    ],
+    "time": "2024-07-10 19:30:22,878"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.47780639,
+      -0.01437012
+    ],
+    "time": "2024-07-10 19:30:22,879"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.39577699,
+      -0.09879456
+    ],
+    "time": "2024-07-10 19:30:22,879"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1383.7838134765625,
+    "velocity": 0,
+    "acceleration": [
+      0.5945636,
+      -0.02574646
+    ],
+    "time": "2024-07-10 19:30:22,880"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.55863833,
+      -0.02754273
+    ],
+    "time": "2024-07-10 19:30:22,880"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.62031007,
+      -0.03652405
+    ],
+    "time": "2024-07-10 19:30:23,415"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1340.54052734375,
+    "velocity": 0,
+    "acceleration": [
+      0.56522459,
+      -0.03412903
+    ],
+    "time": "2024-07-10 19:30:23,416"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.54845947,
+      -0.0490979
+    ],
+    "time": "2024-07-10 19:30:23,418"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.38799316,
+      -0.00419128
+    ],
+    "time": "2024-07-10 19:30:23,418"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.54786074,
+      -0.05029541
+    ],
+    "time": "2024-07-10 19:30:23,419"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      0.59396482,
+      -0.03233276
+    ],
+    "time": "2024-07-10 19:30:24,031"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.50115782,
+      -0.02874023
+    ],
+    "time": "2024-07-10 19:30:24,032"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1383.7838134765625,
+    "velocity": 0,
+    "acceleration": [
+      0.44307861,
+      -0.03891907
+    ],
+    "time": "2024-07-10 19:30:24,032"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.517923,
+      -0.03652405
+    ],
+    "time": "2024-07-10 19:30:24,033"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.5771997,
+      0.00778381
+    ],
+    "time": "2024-07-10 19:30:24,334"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.51971924,
+      -0.02335144
+    ],
+    "time": "2024-07-10 19:30:24,335"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.40835083,
+      -0.04311035
+    ],
+    "time": "2024-07-10 19:30:24,336"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1513.5135498046875,
+    "velocity": 0,
+    "acceleration": [
+      0.47541139,
+      -0.04131409
+    ],
+    "time": "2024-07-10 19:30:24,336"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      0.59396482,
+      -0.00299377
+    ],
+    "time": "2024-07-10 19:30:24,337"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.27602601,
+      -0.0796344
+    ],
+    "time": "2024-07-10 19:30:24,337"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.23950195,
+      -0.02694397
+    ],
+    "time": "2024-07-10 19:30:24,752"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1340.54052734375,
+    "velocity": 0,
+    "acceleration": [
+      0.24189697,
+      0.00479004
+    ],
+    "time": "2024-07-10 19:30:24,752"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1340.54052734375,
+    "velocity": 0,
+    "acceleration": [
+      0.12992981,
+      0.01676514
+    ],
+    "time": "2024-07-10 19:30:24,753"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1427.0269775390625,
+    "velocity": 0,
+    "acceleration": [
+      0.11496094,
+      -0.01796265
+    ],
+    "time": "2024-07-10 19:30:24,754"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1556.7567138671875,
+    "velocity": 0,
+    "acceleration": [
+      0.19579285,
+      -0.06047424
+    ],
+    "time": "2024-07-10 19:30:25,135"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      0.29937744,
+      -0.05089416
+    ],
+    "time": "2024-07-10 19:30:25,136"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1470.270263671875,
+    "velocity": 0,
+    "acceleration": [
+      0.31554383,
+      -0.06825805
+    ],
+    "time": "2024-07-10 19:30:25,136"
+  },
+  {
+    "type": "dados",
+    "orientation": "Parado",
+    "energy": 1340.54052734375,
+    "velocity": 0,
+    "acceleration": [
+      0.30177248,
+      -0.00359253
+    ],
+    "time": "2024-07-10 19:30:25,137"
+  }
+]
