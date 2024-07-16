@@ -1,0 +1,1486 @@
+{
+  "results": [
+    {
+      "position": [
+        0.0,
+        0.0
+      ],
+      "instant_velocity": 0,
+      "instant_acceleration": 0,
+      "time": 0,
+      "energy_consumption": 0
+    },
+    {
+      "position": [
+        0.01,
+        0.01
+      ],
+      "instant_velocity": 0.01414213562373095,
+      "instant_acceleration": 0.018648111434461666,
+      "time": 0.035,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        0.03,
+        0.03
+      ],
+      "instant_velocity": 0.0282842712474619,
+      "instant_acceleration": 0.22818846195775563,
+      "time": 0.036000000000000004,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        0.06,
+        0.06
+      ],
+      "instant_velocity": 0.042426406871192854,
+      "instant_acceleration": 0.24605037873197372,
+      "time": 0.037000000000000005,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        0.1,
+        0.1
+      ],
+      "instant_velocity": 0.0565685424949238,
+      "instant_acceleration": 0.042515816305493885,
+      "time": 0.038000000000000006,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        0.15000000000000002,
+        0.15000000000000002
+      ],
+      "instant_velocity": 0.07071067811865477,
+      "instant_acceleration": 0.25818766597081766,
+      "time": 0.038000000000000006,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        0.21000000000000002,
+        0.21000000000000002
+      ],
+      "instant_velocity": 0.08485281374238571,
+      "instant_acceleration": 2.411706909928521,
+      "time": 0.03900000000000001,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        0.28,
+        0.28
+      ],
+      "instant_velocity": 0.09899494936611666,
+      "instant_acceleration": 1.7576859365629944,
+      "time": 0.03900000000000001,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        0.3507106781186548,
+        0.3507106781186548
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.666737186487161,
+      "time": 0.04000000000000001,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        0.4227059752646884,
+        0.42011296330332526
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.7636237760931576,
+      "time": 0.04000000000000001,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        0.49580784093934366,
+        0.4883487107886768
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.8066943923796357,
+      "time": 0.04100000000000001,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        0.5698643073788232,
+        0.5555472210288469
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.0913900809180958,
+      "time": 0.115,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        0.6447454491510248,
+        0.6218255327672387
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.7516905377189835,
+      "time": 0.116,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        0.7203399877901782,
+        0.6872890014191025
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 3.0385259333174153,
+      "time": 0.116,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        0.7965524430856752,
+        0.7520320447352139
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.37289739572671193,
+      "time": 0.117,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        0.8733007438631517,
+        0.8161389735945033
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.559898266462094,
+      "time": 1.0190000000000001,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        0.9505142229854155,
+        0.8796848518387744
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.42508434383525273,
+      "time": 1.0210000000000001,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        1.0281319326598624,
+        0.9427363478154227
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.16615312382077835,
+      "time": 1.022,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        1.1061012263965233,
+        1.005352553658689
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 3.4678561141467648,
+      "time": 1.023,
+      "energy_consumption": 2.551351318359375
+    },
+    {
+      "position": [
+        1.1843765629098348,
+        1.067585757768134
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5671823672532855,
+      "time": 1.0239999999999998,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        1.2629184948914238,
+        1.1294821625150937
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.6219411952299871,
+      "time": 1.0239999999999998,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        1.3416928119964664,
+        1.1910825437203605
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.13303950913461196,
+      "time": 1.0249999999999997,
+      "energy_consumption": 1.729729736328125
+    },
+    {
+      "position": [
+        1.4206698127224053,
+        1.2524228514823454
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.23554288480937646,
+      "time": 3.5669999999999993,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        1.4998236842673105,
+        1.3135347539192086
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.7360168437003032,
+      "time": 3.567999999999999,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        1.578000821238405,
+        1.3758912712610452
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.15735296826324502,
+      "time": 3.568999999999999,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        1.6553055589978714,
+        1.4393261001797089
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.6034501415100635,
+      "time": 3.568999999999999,
+      "energy_consumption": 1.9027027587890626
+    },
+    {
+      "position": [
+        1.731833355282405,
+        1.5036960962635437
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.18550678359407238,
+      "time": 3.569999999999999,
+      "energy_consumption": 2.1189189453125
+    },
+    {
+      "position": [
+        1.807670896851541,
+        1.5688778980854448
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.7670059648239387,
+      "time": 3.569999999999999,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        1.882896439027155,
+        1.6347650577175379
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.9498936124373016,
+      "time": 3.570999999999999,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        1.9575802878420947,
+        1.7012656045287275
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.5649727355509626,
+      "time": 3.570999999999999,
+      "energy_consumption": 2.248648681640625
+    },
+    {
+      "position": [
+        2.0317853610400407,
+        1.768299977142242
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.0207532877537802,
+      "time": 3.5719999999999987,
+      "energy_consumption": 2.637837890625
+    },
+    {
+      "position": [
+        2.105567783630513,
+        1.8357992668916976
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.6893855510753889,
+      "time": 3.5719999999999987,
+      "energy_consumption": 2.291891845703125
+    },
+    {
+      "position": [
+        2.178977487866453,
+        1.903703724212199
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.5466448460735677,
+      "time": 3.5729999999999986,
+      "energy_consumption": 1.729729736328125
+    },
+    {
+      "position": [
+        2.252058797736533,
+        1.971961486757373
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.29543805200009443,
+      "time": 3.7449999999999988,
+      "energy_consumption": 1.6432432861328126
+    },
+    {
+      "position": [
+        2.324850985381592,
+        2.040527494500617
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.2533640990356307,
+      "time": 3.7449999999999988,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        2.3973887920280186,
+        2.109362562648514
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.3526514006352595,
+      "time": 3.7459999999999987,
+      "energy_consumption": 1.9027027587890626
+    },
+    {
+      "position": [
+        2.46970290965644,
+        2.178432587924482
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.23554288480937646,
+      "time": 3.7469999999999986,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        2.5418204221179224,
+        2.247707867760567
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.32625109472220254,
+      "time": 3.7469999999999986,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        2.6137652060861924,
+        2.3171625152635165
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.26400269668423204,
+      "time": 4.664999999999998,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        2.6855582933237643,
+        2.3867739555940997
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.7360168437003032,
+      "time": 4.667999999999998,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        2.7572181964112246,
+        2.4565224917041557
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.9864969328617773,
+      "time": 4.6709999999999985,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        2.8287612004655407,
+        2.5263909292914106
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.9680313218472479,
+      "time": 4.672999999999998,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        2.9002016235448265,
+        2.596364252424249
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.770819435087086,
+      "time": 4.674999999999998,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        2.9715520484685305,
+        2.66642934261335
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.1589578643587152,
+      "time": 4.678999999999998,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        3.0428235287203935,
+        2.736574735211213
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.5525292464332747,
+      "time": 4.681999999999998,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        3.1140257709803936,
+        2.8067904079427923
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5307565928987917,
+      "time": 4.905999999999998,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        3.1851672966751314,
+        2.877067597142596
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 3.6971725409462057,
+      "time": 4.907999999999998,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        3.256255584760545,
+        2.947398637921794
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.13353844925545377,
+      "time": 4.907999999999998,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        3.3272971977681145,
+        3.017776825034583
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 1.9363174152032916,
+      "time": 4.908999999999998,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        3.3982978929637073,
+        3.088196291673734
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 1.6832653593713744,
+      "time": 4.909999999999998,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        3.469262720292187,
+        3.1586519038152736
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.855553057513957,
+      "time": 6.189999999999999,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        3.540196108614015,
+        3.229139168063397
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.096873111252921,
+      "time": 6.191999999999998,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        3.6111019415843284,
+        3.2996541512285797
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.9601395975433207,
+      "time": 6.192999999999999,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        3.6819836243811817,
+        3.370193410112454
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.1925618391005739,
+      "time": 6.193999999999999,
+      "energy_consumption": 2.42162158203125
+    },
+    {
+      "position": [
+        3.7528441423581262,
+        3.4407539301788423
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5156962237557821,
+      "time": 8.386,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        3.823686112576833,
+        3.511333071966851
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.3488268096509048,
+      "time": 8.388,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        3.894511829067563,
+        3.581928524253629
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 5.205562222107855,
+      "time": 8.389,
+      "energy_consumption": 1.5567567138671874
+    },
+    {
+      "position": [
+        3.9653233025682866,
+        3.6525382631049825
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.3532618314602874,
+      "time": 8.389999999999999,
+      "energy_consumption": 1.470270263671875
+    },
+    {
+      "position": [
+        4.036122295406386,
+        3.723160516064731
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.23624427635918482,
+      "time": 8.389999999999999,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        4.105603447969711,
+        3.7950797029238155
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.269326408615394,
+      "time": 8.390999999999998,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        4.1739094145823294,
+        3.8681159605299924
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.3959833545095104,
+      "time": 8.390999999999998,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        4.241170289362941,
+        3.942115789744301
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.17675442732696967,
+      "time": 8.391999999999998,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        4.307503876099681,
+        4.016947970459815
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 3.139999429635551,
+      "time": 8.391999999999998,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        4.373016252441623,
+        4.092500128245227
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.7952366558686736,
+      "time": 8.392999999999997,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        4.437802507691262,
+        4.168675853582953
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.33920666418798867,
+      "time": 8.392999999999997,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        4.501947570085758,
+        4.245392285788878
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.27510423957781477,
+      "time": 8.393999999999997,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        4.565527066063121,
+        4.322578085592109
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.6313151257850095,
+      "time": 8.393999999999997,
+      "energy_consumption": 2.248648681640625
+    },
+    {
+      "position": [
+        4.628608173164566,
+        4.400171731767914
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 1.4359585315279995,
+      "time": 9.076999999999996,
+      "energy_consumption": 1.6432432861328126
+    },
+    {
+      "position": [
+        4.691250441883927,
+        4.478120087553597
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.0862056835184544,
+      "time": 9.077999999999996,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        4.753506571417947,
+        4.55637719161095
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.5297742305849185,
+      "time": 9.077999999999996,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        4.8154231309987,
+        4.634903236014594
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.5156962237557821,
+      "time": 9.816999999999997,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        4.877041223113562,
+        4.713663700234433
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.1486372035931785,
+      "time": 9.824999999999996,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        4.938397088034019,
+        4.792628615480778
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 1.3488268096509048,
+      "time": 9.824999999999996,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        4.999522651115486,
+        4.871771938243811
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.6983114840490436,
+      "time": 9.825999999999995,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        5.060446015610746,
+        4.951071015530862
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.4556036852768195,
+      "time": 9.825999999999995,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        5.121191904486944,
+        5.030506127318034
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6882265607044584,
+      "time": 9.826999999999995,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        5.18178205511395,
+        5.110060094202136
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6392666525305188,
+      "time": 9.826999999999995,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        5.242235570818128,
+        5.189717940262676
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5768449283402836,
+      "time": 9.896999999999995,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        5.302569233253923,
+        5.269466602803709
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.950173992119553,
+      "time": 9.898999999999996,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        5.362797779396118,
+        5.349294682008945
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.112145724996339,
+      "time": 9.898999999999996,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        5.422934146740178,
+        5.429192224666153
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.6940372224412095,
+      "time": 9.899999999999995,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        5.482989690046287,
+        5.509150537043341
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.203285434581876,
+      "time": 10.311999999999996,
+      "energy_consumption": 2.162162109375
+    },
+    {
+      "position": [
+        5.542974372694837,
+        5.589162022766034
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.4922582354322544,
+      "time": 10.313999999999997,
+      "energy_consumption": 2.248648681640625
+    },
+    {
+      "position": [
+        5.602896935450974,
+        5.669220042181561
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.0064900262448144,
+      "time": 10.314999999999996,
+      "energy_consumption": 2.162162109375
+    },
+    {
+      "position": [
+        5.662765045172449,
+        5.749318790226567
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.6685977044467313,
+      "time": 10.315999999999995,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        5.722585425744173,
+        5.829453190257104
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.4453134352569357,
+      "time": 11.115999999999996,
+      "energy_consumption": 1.34054052734375
+    },
+    {
+      "position": [
+        5.782363973287896,
+        5.909618801672242
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.431972513315923,
+      "time": 11.116999999999996,
+      "energy_consumption": 1.6432432861328126
+    },
+    {
+      "position": [
+        5.84210585747809,
+        5.989811739474803
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.6406173650669676,
+      "time": 11.117999999999995,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        5.901815610595991,
+        6.070028604176681
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.15908862158333825,
+      "time": 11.118999999999994,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        5.961497205772656,
+        6.150266420679678
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.8359030172161321,
+      "time": 11.128999999999994,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        6.021154125708303,
+        6.230522584952535
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.2953561285621284,
+      "time": 11.129999999999994,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        6.080789423007933,
+        6.310794817486487
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6613863646341775,
+      "time": 11.130999999999993,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        6.140405773141431,
+        6.391081122649697
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.345041352524937,
+      "time": 11.131999999999993,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        6.200005520918578,
+        6.471379753179119
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.4014270816208336,
+      "time": 11.866999999999992,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        6.259590721264548,
+        6.55168917914974
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5703167568411128,
+      "time": 11.867999999999991,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        6.31916317498837,
+        6.632008060848398
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.4176554543221542,
+      "time": 11.868999999999991,
+      "energy_consumption": 2.551351318359375
+    },
+    {
+      "position": [
+        6.3787244601541975,
+        6.712335225054506
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 2.938855533340148,
+      "time": 11.86999999999999,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        6.4382759595921515,
+        6.7926696442949
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 1.7137370356199126,
+      "time": 11.96399999999999,
+      "energy_consumption": 1.6432432861328126
+    },
+    {
+      "position": [
+        6.497818885020877,
+        6.873010418696129
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.9095859089010552,
+      "time": 11.96499999999999,
+      "energy_consumption": 1.470270263671875
+    },
+    {
+      "position": [
+        6.557354298196887,
+        6.953356760106064
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.033119430188051,
+      "time": 11.96499999999999,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        6.616883129455448,
+        7.03370797819882
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 3.081658857726918,
+      "time": 11.965999999999989,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        6.676406193963416,
+        7.114063468313561
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.08033140307337412,
+      "time": 12.792999999999989,
+      "energy_consumption": 1.9027027587890626
+    },
+    {
+      "position": [
+        6.735924205965379,
+        7.194422700809487
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.31094062242398696,
+      "time": 12.793999999999988,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        6.795437791270092,
+        7.2747852117469805
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.821651648149707,
+      "time": 12.794999999999987,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        6.854947498193994,
+        7.355150594728904
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.2719856836210086,
+      "time": 12.794999999999987,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        6.914453807151991,
+        7.435518493757032
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.005221661537007,
+      "time": 12.795999999999987,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        6.973957139062391,
+        7.515888596976829
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6715222886181254,
+      "time": 12.795999999999987,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        7.033457862712325,
+        7.596260631199774
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.05689116455885659,
+      "time": 12.795999999999987,
+      "energy_consumption": 2.551351318359375
+    },
+    {
+      "position": [
+        7.092956301212046,
+        7.676634357106285
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.0671033045915244,
+      "time": 12.965999999999987,
+      "energy_consumption": 2.162162109375
+    },
+    {
+      "position": [
+        7.1524527376506315,
+        7.757009565044488
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.1066944590307624,
+      "time": 12.965999999999987,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        7.211947420051801,
+        7.837386071350647
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.7962190260065584,
+      "time": 12.966999999999986,
+      "energy_consumption": 1.5567567138671874
+    },
+    {
+      "position": [
+        7.27144056571635,
+        7.917763715126368
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.5653089622719083,
+      "time": 13.442999999999987,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        7.329448602373209,
+        7.999219639915277
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.187110625685453,
+      "time": 13.444999999999988,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        7.386138259432929,
+        8.081598537592118
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.37248618548363505,
+      "time": 13.445999999999987,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        7.44165998899286,
+        8.164769070514987
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.3423459515282103,
+      "time": 13.445999999999987,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        7.496148851151248,
+        8.24861991368716
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.3075524744988256,
+      "time": 13.936999999999987,
+      "energy_consumption": 1.8162161865234374
+    },
+    {
+      "position": [
+        7.5497255870095055,
+        8.333056477892333
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.5507389481882801,
+      "time": 13.937999999999986,
+      "energy_consumption": 1.9027027587890626
+    },
+    {
+      "position": [
+        7.602497776894216,
+        8.417998198941367
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.33554642627801434,
+      "time": 13.938999999999986,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        7.654561015235949,
+        8.50337629457117
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 0.9034566395206579,
+      "time": 13.938999999999986,
+      "energy_consumption": 2.162162109375
+    },
+    {
+      "position": [
+        7.706000057621314,
+        8.589131906157098
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.915323081914193,
+      "time": 13.939999999999985,
+      "energy_consumption": 2.248648681640625
+    },
+    {
+      "position": [
+        7.756889912444429,
+        8.675214556418823
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.1844320475298119,
+      "time": 14.496999999999986,
+      "energy_consumption": 2.162162109375
+    },
+    {
+      "position": [
+        7.807296861315749,
+        8.76158086643311
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 3.2193687939809923,
+      "time": 14.497999999999985,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        7.857279400409594,
+        8.848193485523705
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.3993914896729079,
+      "time": 14.498999999999985,
+      "energy_consumption": 1.6
+    },
+    {
+      "position": [
+        7.906889100318338,
+        8.935020196131468
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.4828285216490652,
+      "time": 14.498999999999985,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        7.956171385506712,
+        9.022033162789384
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.9796752536160624,
+      "time": 14.786999999999985,
+      "energy_consumption": 2.032432373046875
+    },
+    {
+      "position": [
+        8.005166236680951,
+        9.10920830006151
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.3080569093275001,
+      "time": 14.787999999999984,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        8.053908820703573,
+        9.196524738965062
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6876513416642298,
+      "time": 14.788999999999984,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        8.102430053378965,
+        9.283964375170047
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.6567824220730216,
+      "time": 14.789999999999983,
+      "energy_consumption": 1.989189208984375
+    },
+    {
+      "position": [
+        8.150757100709143,
+        9.37151148532422
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.7317661432336362,
+      "time": 14.789999999999983,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        8.198913824215033,
+        9.459152400319313
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.32222249838204425,
+      "time": 15.111999999999982,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        8.24692117573631,
+        9.546875226310686
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.4550286848330773,
+      "time": 15.112999999999982,
+      "energy_consumption": 2.37837841796875
+    },
+    {
+      "position": [
+        8.29479754683154,
+        9.634669605918676
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.4506508685576022,
+      "time": 15.113999999999981,
+      "energy_consumption": 2.291891845703125
+    },
+    {
+      "position": [
+        8.342559077548506,
+        9.722526513351001
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.29378920875338715,
+      "time": 15.45199999999998,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        8.390219928954638,
+        9.810438078251432
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 0.6432102117630927,
+      "time": 15.453999999999981,
+      "energy_consumption": 1.6432432861328126
+    },
+    {
+      "position": [
+        8.4377925234316,
+        9.898397433948995
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.678989096004672,
+      "time": 15.453999999999981,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        8.485287756360632,
+        9.98639858649268
+      ],
+      "instant_velocity": 0.10000000000000002,
+      "instant_acceleration": 1.6831350085154377,
+      "time": 15.453999999999981,
+      "energy_consumption": 1.729729736328125
+    },
+    {
+      "position": [
+        8.532715182465047,
+        10.0744363014398
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.2312225203309308,
+      "time": 15.920999999999982,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        8.580083179738883,
+        10.1625060058464
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.2951954957939653,
+      "time": 15.921999999999981,
+      "energy_consumption": 1.6864864501953125
+    },
+    {
+      "position": [
+        8.627399093578557,
+        10.250603703305053
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 1.631675732158005,
+      "time": 15.921999999999981,
+      "energy_consumption": 2.07567578125
+    },
+    {
+      "position": [
+        8.674669363448524,
+        10.338725900204702
+      ],
+      "instant_velocity": 0.09999999999999999,
+      "instant_acceleration": 3.0464960461400334,
+      "time": 15.92299999999998,
+      "energy_consumption": 1.85945947265625
+    },
+    {
+      "position": [
+        8.7218996341523,
+        10.426869541661407
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.37447510725212374,
+      "time": 16.68699999999998,
+      "energy_consumption": 1.7729730224609375
+    },
+    {
+      "position": [
+        8.76909485354556,
+        10.515031955798168
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.23338617272163856,
+      "time": 16.68799999999998,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        8.816259358317335,
+        10.603210805244242
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.1207586366053265,
+      "time": 16.688999999999982,
+      "energy_consumption": 2.205405517578125
+    },
+    {
+      "position": [
+        8.863396949276506,
+        10.691404044886326
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.7220367508189605,
+      "time": 16.689999999999984,
+      "energy_consumption": 2.46486474609375
+    },
+    {
+      "position": [
+        8.910510957412548,
+        10.779609885040802
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.160326319507649,
+      "time": 16.689999999999984,
+      "energy_consumption": 1.9459459228515625
+    },
+    {
+      "position": [
+        8.9576043018496,
+        10.867826759332138
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.0136326284836494,
+      "time": 16.690999999999985,
+      "energy_consumption": 1.5567567138671874
+    },
+    {
+      "position": [
+        9.004679540679929,
+        10.956053296661148
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 0.5485359372338637,
+      "time": 16.980999999999984,
+      "energy_consumption": 1.5135135498046874
+    },
+    {
+      "position": [
+        9.051738915545027,
+        11.044288296730883
+      ],
+      "instant_velocity": 0.1,
+      "instant_acceleration": 2.0750821105439705,
+      "time": 16.982999999999983,
+      "energy_consumption": 1.85945947265625
+    }
+  ],
+  "total_energy_consumption": 284.1945954589843,
+  "average_velocity": 0.09727013376665178
+}

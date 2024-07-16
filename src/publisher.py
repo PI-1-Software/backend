@@ -20,18 +20,24 @@ publish_queue: asyncio.Queue[PathData] = asyncio.Queue()
 async def publisher_worker():
     while True:
         try:
-            logging.debug("Connecting to MQTT broker")
-            async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
+            while True:
                 logging.info("Waiting for events")
-                while True:
-                    data = await publish_queue.get()
+                data = await publish_queue.get()
+                logging.debug("Connecting to MQTT broker")
+                async with aiomqtt.Client(BROKER, PORT, username=USERNAME) as client:
                     logging.debug("Publishing data: %s", data)
+
+                    dashboard_data = path_data_to_dashboard(data)
+                    if data.get("finished", False):
+                        average = await db.calculate_averages()
+                        dashboard_data.update(path_data_to_report_dashboard(average))
+
                     await asyncio.gather(
                         client.publish(TOPIC, json.dumps(path_data_to_dashboard(data))),
                         db.insert(path_data_to_database(data)),
                     )
         except Exception as e:
-            logging.error("%s", e)
+            logging.error("%s", e, exc_info=True)
 
 
 def path_data_to_dashboard(data: PathData):
@@ -43,6 +49,14 @@ def path_data_to_dashboard(data: PathData):
         "consumo_energetico": data["energy_consumption"],
         "XPos": data["position"][0],
         "YPos": data["position"][1],
+    }
+
+
+def path_data_to_report_dashboard(data: dict):
+    return {
+        "velocidade_media_trajeto": data["average_velocity"],
+        "velocidade_inst_trajeto": data["average_acceleration"],
+        "consumo_energetico_trajeto": data["average_energy_consumption"],
     }
 
 

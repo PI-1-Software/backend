@@ -46,6 +46,27 @@ async def get_next_path_id() -> int:
         return await connection.fetchval("SELECT MAX(id_path) + 1 FROM records") or 0
 
 
+async def calculate_averages():
+    async with (await get_pool()).acquire() as connection:
+        query = """
+            SELECT AVG(instant_velocity) AS avg_velocity,
+                   AVG(instant_acceleration) AS avg_acceleration,
+                   AVG(energy_consumption) AS avg_energy
+            FROM records
+        """
+        result = await connection.fetchrow(query)
+
+        if result:
+            averages = {
+                "average_velocity": result["avg_velocity"] or 0.0,
+                "average_acceleration": result["avg_acceleration"] or 0.0,
+                "average_energy_consumption": result["avg_energy"] or 0.0,
+            }
+            return averages
+        else:
+            raise Exception("No records found to calculate averages")
+
+
 if __name__ == "__main__":
     import asyncio
     from datetime import datetime
@@ -60,5 +81,8 @@ if __name__ == "__main__":
             "timestamp": datetime.now(),
         }
         await insert(record)
+
+        averages = await calculate_averages()
+        print("Averages calculated:", averages)
 
     asyncio.run(test())

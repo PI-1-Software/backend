@@ -11,3 +11,4 @@ class PathData(TypedDict):
     energy_consumption: float
     timestamp: datetime
     duration: float
+    finished: bool
